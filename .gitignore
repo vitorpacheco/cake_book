@@ -1,0 +1,21 @@
+# CakePHP
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+webroot/test.php
+
+# Eclipse
+.buildpath
+.classpath
+.settings/
+.loadpath
+local.properties
+.project
+.metadata
+*.tmp
+*.bak
+
+# Projeto
+webroot/img/imoveis/*
