@@ -5,6 +5,10 @@ class UsersController extends AppController {
 		$this->Auth->allow('add');
 	}
 
+	public function dashboard() {
+
+	}
+
 	public function login() {
 
 	}
